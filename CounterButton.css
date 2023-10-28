@@ -1,0 +1,16 @@
+.counter-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.counter-button {
+  padding: 10px 20px;
+  font-size: 20px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
